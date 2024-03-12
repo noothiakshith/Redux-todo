@@ -1,4 +1,4 @@
-import AddTodo from "./components/AddTodos"
+import AddTodo from "./components/AddTodo"
 import Todos from "./components/Todos"
 
 
